@@ -20,7 +20,7 @@ ul
   font-family: 'Nunito', sans-serif;
   background-color: white;
   position: fixed;
-  width: 208vh;
+  width: 100%;
   height: 53px;
   z-index: 100;
   animation: change 2s ease-in-out;
